@@ -2,7 +2,7 @@
 
 **Discover events. Book in seconds. Feel the moment.**
 
-Eventify is a responsive event discovery and registration website inspired by the simplicity of BookMyShow. Browse concerts, festivals, hackathons and food carnivals, swipe through featured picks, and register in a few taps. Every event has its own full-screen visual effect, so clicking on a Diwali party feels different from clicking on a Halloween bash.
+Eventify is a responsive event discovery and registration website. Browse concerts, festivals, hackathons and food carnivals, swipe through featured picks, and register in a few taps. Every event has its own full-screen visual effect, so clicking on a Diwali party feels different from clicking on a Halloween bash.
 
 It is built with plain **HTML5, CSS3 and JavaScript**: no frameworks, no build step and no dependencies, so it opens and deploys anywhere.
 
