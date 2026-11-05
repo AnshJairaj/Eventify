@@ -8,8 +8,8 @@ It is built with plain **HTML5, CSS3 and JavaScript**: no frameworks, no build s
 
 |  |  |
 |---|---|
-| **Live demo** | `<add your deployed link here>` |
-| **Repository** | `<add your GitHub repository link here>` |
+| **Live demo** | `https://eventify-lime-six.vercel.app` |
+| **Repository** | `https://github.com/AnshJairaj/Eventify` |
 
 ---
 
